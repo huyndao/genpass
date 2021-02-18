@@ -2,6 +2,7 @@
 
 ## Description
 Simple shell script to generate random passwords, consisting of alpha-numerical and the #, @, $ characters.
+
 This script should not require any special tools installed and as such can be used on any barebone Linux/Unix system.
 
 ## Usage
